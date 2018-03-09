@@ -1,0 +1,14 @@
+.body{
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    position: relative;
+    padding-top: inherit;
+    padding-left: inherit;
+    align-content: center;
+
+}
+.logo{
+    height:100px;
+    width:100px ;
+}
